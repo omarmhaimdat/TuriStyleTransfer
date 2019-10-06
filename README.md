@@ -18,7 +18,7 @@ I have used two styles:
 * **Style number 2:** That's an art piece made by a young Moroccan artist, you can check out his Instagram page
 * **Input image:** well, that's me
 
-##Colab Notebook
+## Colab Notebook
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OWjGPZTjPQRnA7GOzuuI6nipM0svR5ri)
 
