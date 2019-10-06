@@ -10,9 +10,23 @@
 		6C3DACB22348A2B800631ACC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACB12348A2B800631ACC /* AppDelegate.swift */; };
 		6C3DACB42348A2B800631ACC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACB32348A2B800631ACC /* SceneDelegate.swift */; };
 		6C3DACB62348A2B800631ACC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACB52348A2B800631ACC /* ViewController.swift */; };
-		6C3DACB92348A2B800631ACC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C3DACB72348A2B800631ACC /* Main.storyboard */; };
 		6C3DACBB2348A2BB00631ACC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C3DACBA2348A2BB00631ACC /* Assets.xcassets */; };
 		6C3DACBE2348A2BB00631ACC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C3DACBC2348A2BB00631ACC /* LaunchScreen.storyboard */; };
+		6C3DACD52348A5B200631ACC /* UIView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACC72348A5B200631ACC /* UIView+Extensions.swift */; };
+		6C3DACD62348A5B200631ACC /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACC82348A5B200631ACC /* Date+Extension.swift */; };
+		6C3DACD72348A5B200631ACC /* UIButton+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACC92348A5B200631ACC /* UIButton+Extension.swift */; };
+		6C3DACD82348A5B200631ACC /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACCA2348A5B200631ACC /* UIImage+Extension.swift */; };
+		6C3DACD92348A5B200631ACC /* UIColor+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACCB2348A5B200631ACC /* UIColor+Extensions.swift */; };
+		6C3DACDA2348A5B200631ACC /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACCC2348A5B200631ACC /* UIViewController+Extension.swift */; };
+		6C3DACDB2348A5B200631ACC /* BtnVideLarge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACCF2348A5B200631ACC /* BtnVideLarge.swift */; };
+		6C3DACDC2348A5B200631ACC /* BtnVide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACD02348A5B200631ACC /* BtnVide.swift */; };
+		6C3DACDD2348A5B200631ACC /* BtnPleinLarge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACD22348A5B200631ACC /* BtnPleinLarge.swift */; };
+		6C3DACDE2348A5B200631ACC /* BtnPlein.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACD32348A5B200631ACC /* BtnPlein.swift */; };
+		6C3DACDF2348A5B200631ACC /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACD42348A5B200631ACC /* Button.swift */; };
+		6C3DACE32348AA5300631ACC /* OutputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3DACE22348AA5300631ACC /* OutputViewController.swift */; };
+		6CCEF38D234A022600590BA5 /* MyStyleTransfer-30000.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 6CCEF38C234A022600590BA5 /* MyStyleTransfer-30000.mlmodel */; };
+		6CCEF38F234A024B00590BA5 /* MyStyleTransfer-20000.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 6CCEF38E234A024B00590BA5 /* MyStyleTransfer-20000.mlmodel */; };
+		6CCEF391234A026200590BA5 /* MyStyleTransfer-10000.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 6CCEF390234A026200590BA5 /* MyStyleTransfer-10000.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,10 +34,24 @@
 		6C3DACB12348A2B800631ACC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6C3DACB32348A2B800631ACC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		6C3DACB52348A2B800631ACC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		6C3DACB82348A2B800631ACC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6C3DACBA2348A2BB00631ACC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C3DACBD2348A2BB00631ACC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C3DACBF2348A2BB00631ACC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C3DACC72348A5B200631ACC /* UIView+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extensions.swift"; sourceTree = "<group>"; };
+		6C3DACC82348A5B200631ACC /* Date+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
+		6C3DACC92348A5B200631ACC /* UIButton+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+Extension.swift"; sourceTree = "<group>"; };
+		6C3DACCA2348A5B200631ACC /* UIImage+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
+		6C3DACCB2348A5B200631ACC /* UIColor+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extensions.swift"; sourceTree = "<group>"; };
+		6C3DACCC2348A5B200631ACC /* UIViewController+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extension.swift"; sourceTree = "<group>"; };
+		6C3DACCF2348A5B200631ACC /* BtnVideLarge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BtnVideLarge.swift; sourceTree = "<group>"; };
+		6C3DACD02348A5B200631ACC /* BtnVide.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BtnVide.swift; sourceTree = "<group>"; };
+		6C3DACD22348A5B200631ACC /* BtnPleinLarge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BtnPleinLarge.swift; sourceTree = "<group>"; };
+		6C3DACD32348A5B200631ACC /* BtnPlein.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BtnPlein.swift; sourceTree = "<group>"; };
+		6C3DACD42348A5B200631ACC /* Button.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
+		6C3DACE22348AA5300631ACC /* OutputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutputViewController.swift; sourceTree = "<group>"; };
+		6CCEF38C234A022600590BA5 /* MyStyleTransfer-30000.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "MyStyleTransfer-30000.mlmodel"; sourceTree = "<group>"; };
+		6CCEF38E234A024B00590BA5 /* MyStyleTransfer-20000.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "MyStyleTransfer-20000.mlmodel"; sourceTree = "<group>"; };
+		6CCEF390234A026200590BA5 /* MyStyleTransfer-10000.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "MyStyleTransfer-10000.mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +84,69 @@
 		6C3DACB02348A2B800631ACC /* StyleTransfer */ = {
 			isa = PBXGroup;
 			children = (
+				6C3DACCD2348A5B200631ACC /* Buttons */,
+				6C3DACC52348A5B200631ACC /* Utilities */,
 				6C3DACB12348A2B800631ACC /* AppDelegate.swift */,
 				6C3DACB32348A2B800631ACC /* SceneDelegate.swift */,
+				6C3DACE22348AA5300631ACC /* OutputViewController.swift */,
 				6C3DACB52348A2B800631ACC /* ViewController.swift */,
-				6C3DACB72348A2B800631ACC /* Main.storyboard */,
+				6CCEF38E234A024B00590BA5 /* MyStyleTransfer-20000.mlmodel */,
+				6CCEF38C234A022600590BA5 /* MyStyleTransfer-30000.mlmodel */,
+				6CCEF390234A026200590BA5 /* MyStyleTransfer-10000.mlmodel */,
 				6C3DACBA2348A2BB00631ACC /* Assets.xcassets */,
 				6C3DACBC2348A2BB00631ACC /* LaunchScreen.storyboard */,
 				6C3DACBF2348A2BB00631ACC /* Info.plist */,
 			);
 			path = StyleTransfer;
+			sourceTree = "<group>";
+		};
+		6C3DACC52348A5B200631ACC /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				6C3DACC62348A5B200631ACC /* Extensions */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		6C3DACC62348A5B200631ACC /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				6C3DACC72348A5B200631ACC /* UIView+Extensions.swift */,
+				6C3DACC82348A5B200631ACC /* Date+Extension.swift */,
+				6C3DACC92348A5B200631ACC /* UIButton+Extension.swift */,
+				6C3DACCA2348A5B200631ACC /* UIImage+Extension.swift */,
+				6C3DACCB2348A5B200631ACC /* UIColor+Extensions.swift */,
+				6C3DACCC2348A5B200631ACC /* UIViewController+Extension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		6C3DACCD2348A5B200631ACC /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				6C3DACCE2348A5B200631ACC /* BtnVide */,
+				6C3DACD12348A5B200631ACC /* BtnPlein */,
+				6C3DACD42348A5B200631ACC /* Button.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		6C3DACCE2348A5B200631ACC /* BtnVide */ = {
+			isa = PBXGroup;
+			children = (
+				6C3DACCF2348A5B200631ACC /* BtnVideLarge.swift */,
+				6C3DACD02348A5B200631ACC /* BtnVide.swift */,
+			);
+			path = BtnVide;
+			sourceTree = "<group>";
+		};
+		6C3DACD12348A5B200631ACC /* BtnPlein */ = {
+			isa = PBXGroup;
+			children = (
+				6C3DACD22348A5B200631ACC /* BtnPleinLarge.swift */,
+				6C3DACD32348A5B200631ACC /* BtnPlein.swift */,
+			);
+			path = BtnPlein;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +209,6 @@
 			files = (
 				6C3DACBE2348A2BB00631ACC /* LaunchScreen.storyboard in Resources */,
 				6C3DACBB2348A2BB00631ACC /* Assets.xcassets in Resources */,
-				6C3DACB92348A2B800631ACC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +219,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C3DACDA2348A5B200631ACC /* UIViewController+Extension.swift in Sources */,
+				6C3DACD62348A5B200631ACC /* Date+Extension.swift in Sources */,
+				6C3DACDE2348A5B200631ACC /* BtnPlein.swift in Sources */,
+				6C3DACDB2348A5B200631ACC /* BtnVideLarge.swift in Sources */,
+				6C3DACD82348A5B200631ACC /* UIImage+Extension.swift in Sources */,
+				6CCEF391234A026200590BA5 /* MyStyleTransfer-10000.mlmodel in Sources */,
+				6CCEF38D234A022600590BA5 /* MyStyleTransfer-30000.mlmodel in Sources */,
+				6C3DACE32348AA5300631ACC /* OutputViewController.swift in Sources */,
 				6C3DACB62348A2B800631ACC /* ViewController.swift in Sources */,
+				6CCEF38F234A024B00590BA5 /* MyStyleTransfer-20000.mlmodel in Sources */,
+				6C3DACDC2348A5B200631ACC /* BtnVide.swift in Sources */,
+				6C3DACDF2348A5B200631ACC /* Button.swift in Sources */,
+				6C3DACD92348A5B200631ACC /* UIColor+Extensions.swift in Sources */,
 				6C3DACB22348A2B800631ACC /* AppDelegate.swift in Sources */,
+				6C3DACD52348A5B200631ACC /* UIView+Extensions.swift in Sources */,
+				6C3DACDD2348A5B200631ACC /* BtnPleinLarge.swift in Sources */,
 				6C3DACB42348A2B800631ACC /* SceneDelegate.swift in Sources */,
+				6C3DACD72348A5B200631ACC /* UIButton+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		6C3DACB72348A2B800631ACC /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6C3DACB82348A2B800631ACC /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		6C3DACBC2348A2BB00631ACC /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
